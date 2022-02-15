@@ -1,0 +1,44 @@
+body{
+    background-size:cover;
+    background-position:center;
+    text-align:center;
+    background-color:cornflowerblue;
+}
+
+
+#header{
+    background-color:aquamarine;
+    color:black;
+    border-style: groove;
+    border-color:cadetblue;
+    border-width: 20px;
+    font-family: 'Shizuru', cursive;
+}
+
+
+footer{
+    bottom:0;
+    position:fixed;
+    width:100%;
+    font-family: 'Shizuru', cursive;
+    background-color:aquamarine;
+    color:black;
+    border-style:groove;
+    border-color:cadetblue;
+    border-width:10px;
+    font-family: 'Shizuru', cursive;
+    text-decoration:underline;
+    text-decoration:chartreuse;
+    font-weight: bolder;
+}
+
+
+.btn{
+    font-size:50px;
+    background-color:rgb(43, 211, 107);
+    color:white;
+    border-style:groove;
+    border-color:cadetblue;
+    border-width:4px;
+    font-family: 'Shizuru', cursive;
+}
